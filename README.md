@@ -1,4 +1,4 @@
-# sentiment_classifier
+# 2 Category Sentiment Classifier on the SST Dataset using Bert
 
 Click the button below to open the notebook in Google Colab.
 
